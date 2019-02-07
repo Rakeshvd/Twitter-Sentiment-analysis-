@@ -1,2 +1,2 @@
 # Twitter-Sentiment-analysis-
-Using lexicon-based tokanization
+Using lexicon-based tokenization
